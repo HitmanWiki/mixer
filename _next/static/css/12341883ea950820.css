@@ -243,7 +243,7 @@ body {
     background-color: rgb(89 89 89/var(--tw-bg-opacity));
     --tw-text-opacity: 1;
     color: rgb(255 255 255/var(--tw-text-opacity)) */
-    background-color: rgb(7, 5, 5);
+    background-color: #292929;
 }
 
 *,
@@ -740,12 +740,12 @@ body {
 
 .border-accent {
     --tw-border-opacity: 1;
-    border-color: rgb(76 0 255/var(--tw-border-opacity))
+    border-color: rgb(0 0 0/var(--tw-border-opacity))
 }
 
 .border-gray-200 {
     --tw-border-opacity: 1;
-    border-color: rgb(229 231 235/var(--tw-border-opacity))
+    border-color: rgb(0 0 0/var(--tw-border-opacity))
 }
 
 .border-red-600 {
@@ -768,12 +768,12 @@ body {
 
 .bg-\[\#3A0D84\] {
     --tw-bg-opacity: 1;
-    background-color: rgb(58 13 132/var(--tw-bg-opacity))
+    background-color: rgb(/var(--tw-bg-opacity))
 }
 
 .bg-\[\#4C00FF\] {
     --tw-bg-opacity: 1;
-    background-color: rgb(76 0 255/var(--tw-bg-opacity))
+    background-color: rgb(0 0 0/var(--tw-bg-opacity))
 }
 
 .bg-\[\#6A9FFB\]\/10 {
@@ -785,7 +785,7 @@ body {
 }
 
 .bg-accent\/20 {
-    background-color: rgba(107, 101, 122, 0.2)
+    background-color: rgba(0, 0, 0, 0.2)
 }
 
 .bg-gray-300 {
@@ -997,7 +997,7 @@ body {
 
 .text-\[\#4C00FF\] {
     --tw-text-opacity: 1;
-    color: rgb(76 0 255/var(--tw-text-opacity))
+    color: rgb(0 0 0/var(--tw-text-opacity))
 }
 
 .text-\[\#6A9FFB\] {
@@ -1133,7 +1133,7 @@ body {
 
 .focus\:border-\[\#4C00FF\]:focus {
     --tw-border-opacity: 1;
-    border-color: rgb(76 0 255/var(--tw-border-opacity))
+    border-color: rgb(0 0 0/var(--tw-border-opacity))
 }
 
 .focus\:outline-none:focus {
@@ -1148,7 +1148,7 @@ body {
 
 .focus\:ring-\[\#4C00FF\]:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(76 0 255/var(--tw-ring-opacity))
+    --tw-ring-color: rgb(0 0 0/var(--tw-ring-opacity))
 }
 
 .focus-visible\:outline-none:focus-visible {

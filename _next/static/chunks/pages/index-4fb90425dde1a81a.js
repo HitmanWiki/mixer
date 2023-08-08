@@ -62,16 +62,16 @@
                                 filter: "url(#filter0_f_17_60)",
                                 children: [(0, r.jsx)("path", {
                                     d: "M128.6 0H0V322.2L332.5 211.5L128.6 0Z",
-                                    fill: "#4D07E3"
+                                    fill: "#292929"
                                 }), (0, r.jsx)("path", {
                                     d: "M0 322.2V400H240H320L332.5 211.5L0 322.2Z",
-                                    fill: "#4C00FF"
+                                    fill: "#292929"
                                 }), (0, r.jsx)("path", {
                                     d: "M320 400H400V78.75L332.5 211.5L320 400Z",
-                                    fill: "#7fcef3"
+                                    fill: "#878787"
                                 }), (0, r.jsx)("path", {
                                     d: "M400 0H128.6L332.5 211.5L400 78.75V0Z",
-                                    fill: "#7fcef3"
+                                    fill: "#878787"
                                 })]
                             })
                         }), (0, r.jsx)("defs", {
